@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action1_handle" type="id">111111</item>
+    <item name="action2_handle" type="id">111112</item>
+</resources>

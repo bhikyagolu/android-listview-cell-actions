@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-listview-cell-actions</string>
+    <string name="basic_action_1">ACTION1</string>
+    <string name="basic_action_2">ACTION2</string>
+</resources>

@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/list_display_view_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <include layout="@layout/list_item_action_item" />
+    </LinearLayout>
+
+</RelativeLayout>
